@@ -1,0 +1,17 @@
+h1 {
+  color: coral;
+}
+img {
+  width: 500px;
+}
+#thirdDiv {
+  height: 600px;
+  width: 500px;
+  background: linen;
+  padding: 50px;
+  border: solid lightcoral 10px;
+}
+#spanId {
+  font-size: 18px;
+  margin: 50px;
+}
